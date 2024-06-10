@@ -1,0 +1,6 @@
+# tfstateファイルは保存しない
+*.tfstate
+*.tfstate.backup
+
+#.terraformディレクトリは保存しない
+.terraform/
